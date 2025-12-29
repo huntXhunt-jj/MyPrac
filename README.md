@@ -1,2 +1,3 @@
 # MyRepository
-test repository
+2025/12/25 ~~ 2026/2/10 (예정)
+연습 기록
